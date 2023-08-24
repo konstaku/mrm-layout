@@ -289,6 +289,11 @@ h3 {
   font-size: 0.75rem;
   font-weight: 600;
   line-height: 18px;
+  cursor: pointer;
+}
+
+.btn.btn-show-more:hover {
+  border: 1px solid hsl(216, 14%, 88%);
 }
 
 .propositions {

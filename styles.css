@@ -48,7 +48,7 @@ h3 {
   /* margin: 0 min(96px, 15%); */
   margin: 0 auto;
   min-width: 720px;
-  width: 1000px;
+  width: 900px;
   display: flex;
   flex-direction: column;
   justify-content: center;
